@@ -50,4 +50,5 @@ class DragonTest < Minitest::Test
     dragon.eat
     refute dragon.hungry?
   end
+  
 end
